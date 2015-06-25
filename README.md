@@ -10,3 +10,7 @@
 - Search - search candidates by first/last names and departments
 - File upload - attach any files related to candidates (cv, images, pdf ..)
 - Notes - leave notes about candidates
+- Automated backups to AWS S3
+- Telegram bot to search candidates from messenger
+- Mailing via Mandril API
+- Bug reports to Gitlab from UI
